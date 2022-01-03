@@ -92,3 +92,25 @@ li:nth-child(even) {
 } */
 
 /*Styling Links*/
+
+/*this will target all elements with an href attribute (so only links)*/
+a:link {
+  color: #1090ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1090ad;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
+}
+
