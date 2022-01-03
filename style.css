@@ -1,5 +1,6 @@
 h1, h2, h3, h4, p, li {
   font-family: sans-serif;
+  color: #444;
 }
 
 h1, h2, h3 {
@@ -61,4 +62,8 @@ li {
 
 .related {
   list-style: none;
+}
+
+.main-header {
+  background-color: #f7f7f7;
 }
