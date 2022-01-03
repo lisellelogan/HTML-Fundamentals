@@ -41,12 +41,12 @@ li {
 } */
 
 /*hash selector or id selector*/
-#author {
+.author {
   font-style: italic;
   font-size: 18px;
 }
 
-#copyright {
+.copyright {
   font-size: 16px;
 }
 
