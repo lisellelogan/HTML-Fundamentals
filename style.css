@@ -2,6 +2,10 @@ h1, h2, h3, h4, p, li {
   font-family: sans-serif;
 }
 
+h1, h2, h3 {
+  color: #1090ad;
+}
+
 h1 {
   font-size: 26px;
   text-transform: uppercase;
