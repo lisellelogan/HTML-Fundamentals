@@ -85,3 +85,10 @@ li:last-child {
 li:nth-child(even) {
   color: red;
 }
+
+/*common misconception for pseudo-classes - won't work because the first child element is not a p tag*/ 
+/* article p:first-child {
+  color: red;
+} */
+
+/*Styling Links*/
