@@ -32,9 +32,9 @@ li {
 }
 
 /*descendant selector*/
-footer p {
+/* footer p {
   font-size: 16px;
-}
+} */
 
 /* article header p {
   font-style: italic;
@@ -43,4 +43,9 @@ footer p {
 /*hash selector or id selector*/
 #author {
   font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
 }
