@@ -30,3 +30,9 @@ p {
 li {
   font-size: 20px;
 }
+
+/*descendant selector*/
+footer p {
+  font-size: 16px;
+}
+
