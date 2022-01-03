@@ -72,3 +72,13 @@ aside {
   background-color: #f7f7f7;
   border: 5px solid #1090ad;
 }
+
+/*pseudo-class*/
+li:first-child {
+  font-weight: bold;
+}
+
+li:last-child {
+  font-style: italic;
+}
+
