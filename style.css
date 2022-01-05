@@ -114,3 +114,20 @@ a:active {
   font-style: italic;
 }
 
+/*Resolving Conflicts*/
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */
+
